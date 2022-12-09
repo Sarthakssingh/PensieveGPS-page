@@ -1,0 +1,12 @@
+.app{
+  background-color: #edeef5;
+  padding: 5%;
+  height: 100vh;
+}
+.border{
+  border-style: solid;
+  border-color: #7a7d7d;
+  border-width: 9px;
+  padding: 3%;
+  border-radius: 20px;
+}

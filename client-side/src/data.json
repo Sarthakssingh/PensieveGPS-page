@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "deviceId":"D-1567",
+        "deviceType":"Aircraft",
+        "timeStamp":"31-08-2022 10:05",
+        "location":"L2"
+    },
+    {
+        "id":2,
+        "deviceId":"D-1568",
+        "deviceType":"Personal",
+        "timeStamp":"31-08-2022 10:25",
+        "location":"L3"
+    },
+    {
+        "id":3,
+        "deviceId":"D-1569",
+        "deviceType":"Asset",
+        "timeStamp":"31-08-2022 10:35",
+        "location":"L2"
+    },
+    {
+        "id":4,
+        "deviceId":"D-1570",
+        "deviceType":"Personal",
+        "timeStamp":"31-08-2022 10:35",
+        "location":"L5"
+    },
+    {
+        "id":5,
+        "deviceId":"D-1571",
+        "deviceType":"Asset",
+        "timeStamp":"31-08-2022 10:35",
+        "location":"L6"
+    }
+]

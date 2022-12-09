@@ -1,0 +1,35 @@
+.signup-form{
+    text-align: center;
+    border-radius: 10px;
+
+}
+.signup-heading{
+    font-size: 40px;
+    font-family: bree serif;
+    text-decoration: underline;
+    text-shadow: 3px 3px 5px #000000;
+    color: lightcoral;
+}
+.form-details{
+    background-color: #fff;
+    border-radius: 10px;
+    text-decoration: underline;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+#name,#email,#password,#cpassword{
+    border-style: none;
+    height: 40px;
+    width: 90%;
+}
+.icon{
+    margin-right: 5px;
+}
+.button-signup{
+    border-style: none;
+    border-radius: 10px;
+    height: 40px;
+    width: 130px;
+    background-color: lightcoral;
+}
